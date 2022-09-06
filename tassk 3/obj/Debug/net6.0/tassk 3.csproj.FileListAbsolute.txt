@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\bin\Debug\net6.0\tassk 3.exe
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\bin\Debug\net6.0\tassk 3.deps.json
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\bin\Debug\net6.0\tassk 3.runtimeconfig.json
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\bin\Debug\net6.0\tassk 3.dll
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\bin\Debug\net6.0\ref\tassk 3.dll
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\bin\Debug\net6.0\tassk 3.pdb
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.dll
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\ref\tassk 3.dll
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.pdb
+C:\Users\Vladimir\Desktop\homework_1\tassk 3\obj\Debug\net6.0\tassk 3.genruntimeconfig.cache
